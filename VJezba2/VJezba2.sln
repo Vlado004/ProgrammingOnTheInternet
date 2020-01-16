@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29230.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "VJezba2", "VJezba2\VJezba2.pyproj", "{7F15044B-7AA3-4D88-90F4-755BC8B655A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7F15044B-7AA3-4D88-90F4-755BC8B655A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F15044B-7AA3-4D88-90F4-755BC8B655A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2C600C25-3446-47B9-BAFC-2AE3C49206D9}
+	EndGlobalSection
+EndGlobal
