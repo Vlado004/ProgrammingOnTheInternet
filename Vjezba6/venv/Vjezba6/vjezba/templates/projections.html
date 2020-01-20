@@ -1,0 +1,12 @@
+{% extends 'base.html' %}
+{%block content%}
+<h2>All current projections</h2><br/>
+<form method="POST">
+<select>
+{%for proj in projections%}
+<option>{{proj.projection_name}}</option><br>
+{%endfor%}
+  <input type="number" name="quantity" min=1 value=1 /><input type="submit" value="Buy" />
+  {% csrf_token %}
+</form>
+{%endblock%}
